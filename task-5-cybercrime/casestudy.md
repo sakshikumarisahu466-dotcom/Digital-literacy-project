@@ -1,17 +1,11 @@
+# Cybercrime Case Study – UPI Payment Fraud
 
-# Stay Safe Online – Cybercrime Prevention Checklist
+UPI payment fraud is one of the most common cybercrimes in India. In this type of fraud, attackers trick people into sharing sensitive information or approving fraudulent payment requests.
 
-1. Never share OTP, PIN, or passwords with anyone.
-2. Do not approve unknown UPI payment requests.
-3. Always verify the identity of the person requesting money.
-4. Use strong and unique passwords for online accounts.
-5. Enable two-factor authentication whenever possible.
-6. Avoid clicking suspicious links received through SMS or email.
-7. Install apps only from trusted sources like Google Play Store.
-8. Regularly check your bank and UPI transaction history.
-9. Do not share personal or financial information online.
+Typically, the fraud starts when a scammer contacts the victim through a phone call, SMS, or social media message. The attacker may pretend to be a bank representative, customer support agent, or online buyer. They then send a fake payment request through a UPI application such as Google Pay, PhonePe, or Paytm.
 
-If you become a victim of cybercrime, report it immediately:
+The victim is often told that they will receive money by approving the request. However, in reality, approving the request results in money being transferred from the victim’s account to the scammer’s account.
 
-National Cyber Crime Portal: https://cybercrime.gov.in  
-Cyber Crime Helpline: 1930
+Students, elderly individuals, and people unfamiliar with digital payments are often targeted. The consequences can include financial loss, stress, and loss of trust in online payment systems.
+
+Cybercrime awareness and careful verification of payment requests are essential to prevent such frauds.
